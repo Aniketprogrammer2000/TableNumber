@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TableNumber</string>
+    <string name="enter_the_table_number">Enter the Table Number:</string>
+    <string name="submit">Submit</string>
+</resources>
